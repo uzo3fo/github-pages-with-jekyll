@@ -1,7 +1,6 @@
-
 ---
-layout: post
-title:  "My Thoughts"
+title: "my thoughts"
+date: 2020-04-20
 ---
 theme: minima
 author: Fredrick Chibuzor Osuala
